@@ -1,6 +1,8 @@
 {
-  "name": "WUSD",
-  "symbol": "WUSD",
-  "description": "A wrapped USD token on Solana blockchain.",
-  "image": "https://raw.githubusercontent.com/kasmaee6432/WUSD-token/main/path-to-your-logo.png" // لینک لوگو شما
+    "name": "USDT_Custom",
+    "symbol": "USDT",
+    "description": "Custom Tether USDT Token",
+    "image": "https://altcoinsbox.com/wp-content/uploads/2023/01/tether-logo.png",
+    "decimals": 6,
+    "tags": ["stablecoin"]
 }
